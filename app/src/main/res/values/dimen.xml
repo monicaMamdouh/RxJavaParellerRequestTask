@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="marginPadding4">4dp</dimen>
+    <dimen name="marginPadding8">8dp</dimen>
+    <dimen name="marginPadding16">16dp</dimen>
+    <dimen name="font18">18sp</dimen>
+    <dimen name="font12">12sp</dimen>
+    <dimen name="imageWidth">250dp</dimen>
+    <dimen name="imageHeight">350dp</dimen>
+
+
+</resources>
